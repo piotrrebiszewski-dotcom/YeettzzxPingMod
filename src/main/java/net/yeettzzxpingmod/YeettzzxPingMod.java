@@ -1,4 +1,4 @@
-package net.yeetttzzxpingmod;
+package net.yeettzzxpingmod;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
@@ -15,7 +15,7 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Vec3d;
 import org.lwjgl.glfw.GLFW;
 
-public class YeetttzzxPingMod implements ClientModInitializer {
+public class YeettzzxPingMod implements ClientModInitializer {
 
     public static String channelCode = "3123";
     public static boolean showSkinHead = true;
