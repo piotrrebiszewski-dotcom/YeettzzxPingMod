@@ -31,7 +31,7 @@ public class YeettzzxPingMod implements ClientModInitializer {
         pingKeyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
                 "key.anarchypingmod.ping",
                 InputUtil.Type.MOUSE,
-                GLFW.GLFW_KEY_MIDDLE,
+                GLFW.GLFW_MOUSE_BUTTON_MIDDLE,
                 "category.anarchypingmod.general"
         ));
 
