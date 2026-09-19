@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "yeettzzxpingmod",
+  "id": "yeetttzzxpingmod",
   "version": "1.0.0",
-  "name": "YeettzzxPingMod",
+  "name": "YeetttzzxPingMod",
   "description": "Mod do pingowania pozycji na serwerach typu Anarchia.",
   "authors": [
-    "Yeettzzx"
+    "TwojNick"
   ],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
     "client": [
-      "net.yeettzzxpingmod.YeettzzxPingModClient"
+      "net.yeetttzzxpingmod.YeetttzzxPingMod"
     ]
   },
   "depends": {
