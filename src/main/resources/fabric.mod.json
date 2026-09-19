@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "yeettzzxpingmod",
+  "version": "1.0.0",
+  "name": "YeettzzxPingMod",
+  "description": "Mod do pingowania pozycji na serwerach typu Anarchia.",
+  "authors": [
+    "Yeettzzx"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.yeettzzxpingmod.YeettzzxPingModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
